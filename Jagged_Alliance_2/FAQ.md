@@ -50,4 +50,10 @@ CIVILIAN_TURN_SPEED_UP_FACTOR     = 0.0
 ```
 
 I am not sure if Kingpin's men count as ENEMY or as CIVILIANS so alter the settings if needed.
+
+---
+
+Q: My people move so slow, why is that?
+
+A: You may have a backpack equipped with gives an AP cost malues on moving/disallows climbing up to roofs.
 ...

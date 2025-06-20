@@ -15,6 +15,11 @@ This guide was written with the game version [JA2_113-v2-G3519Ld827-English](htt
 
 ## Hotkeys
 
+This won't be an exhaustive list. You can check out other hotkey listings
+- [1.13 Github Repo](https://1dot13.github.io/documentation/play-guide.html#22-keyboard-shortcuts)
+- [pbworks.com](http://ja2v113.pbworks.com/w/page/40802363/Jagged%20Alliance%202%201%2013%20Hot%20Keys)
+- [klugzmaj.com](https://klubzmaj.org/download/doctorbombadil/JA2_113_Hotkeys.pdf)
+
 ### Movement and Stances
 
 | Hotkey | Description |
@@ -33,6 +38,7 @@ This guide was written with the game version [JA2_113-v2-G3519Ld827-English](htt
 | --- | --- |
 | . (dot) | Change Scope mode including firing from the hip |
 | SHIFT + R | Reload (don't press 'R') |
+| SHIFT + B | Drop/Grab backpacks
 
 
 ### Other Hotkeys for the Tactial Screen
