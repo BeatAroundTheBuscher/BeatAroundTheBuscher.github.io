@@ -10,7 +10,7 @@ A: You enabled Enemy Generals and Omerta (A9) is one of the spawning spots
 
 Q: The difficulty setting "Experienced" is too easy, but "Expert" is too hard?!
 
-A: Try setting "Progress Speed of Item Choices" to "Slow". One of the reasons why Expert is hard is due to how well kitted out Deiranna's elite troops are. Elites start at Cooldown 5 (of 10). "Slow" Progress Speed will reduce their coolness by 3 till you get to 10 progress, by 2 till 40 progress and finally by 1 till you get to 80 progress. 
+A: Try setting "Progress Speed of Item Choices" to "Slow". One of the reasons why Expert is hard is due to how well kitted out Deiranna's elite troops are. Elites start at Coolness 5 (of 10). "Slow" Progress Speed will reduce their coolness by 3 till you get to 10 progress, by 2 till 40 progress and finally by 1 till you get to 80 progress. 
 
 Press "V" to see your current Max Progress (second number)
 
@@ -26,7 +26,7 @@ A: This won't be an exhaustive list but we can try
 
 Q: When my spy attacks even an admin manages to interrupt and kill them!
 
-A: It seems like that the game will give a hefty malus to Mercs who do "suspicious activities" including to apply a knife to an enemy. It seems to work better if you do not attack in real-time mode but instead press CTRL + T to force turn based mode. You may need to remove the disguise in the $ screen first for best effects, before you plunge the knife into Deidranna's troops.
+A: It seems like that the game will give a hefty malus to Mercs who do "suspicious activities". This includes applying a knife to an enemy. It seems to work better if you do not attack in real-time mode but instead press CTRL + T to force turn based mode. You may need to remove the disguise in the $ screen first for best effects, before you plunge the knife into Deidranna's troops.
 
 ---
 
@@ -49,7 +49,7 @@ MILITIA_TURN_SPEED_UP_FACTOR      = 0.2
 CIVILIAN_TURN_SPEED_UP_FACTOR     = 0.0
 ```
 
-I am not sure if Kingpin's men count as ENEMY or as CIVILIANS so alter the settings if needed.
+I am not sure if Kingpin's men count as ENEMY or as CIVILIAN so alter the settings if needed.
 
 ---
 
