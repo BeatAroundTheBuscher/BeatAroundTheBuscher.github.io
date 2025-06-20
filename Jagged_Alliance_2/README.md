@@ -4,6 +4,15 @@ This Guide isn't intended how to play JA2 properly. Instead this guide tries to 
 
 This guide was written with the game version [JA2_113-v2-G3519Ld827-English](https://github.com/1dot13/source/releases/tag/v2) released 9th of April 2025. No further mods are considered.
 
+## Other Information/Guides
+
+- [Patusco's JA2 Guide](https://draketungsten.org/arcade/pcmanuals/ja2_guide.pdf)
+- [The Bear's Pit Forum](https://thepit.ja-galaxy-forum.com/index.php?t=i&cat=21&)
+- [Item Browser (last updated in August 2020)](https://ja2.furlo.sk/)
+- [JA2 1.13 Discord](https://discord.gg/GqrVZUM)
+- [1.13 Github Repo](https://github.com/1dot13/source)
+- The "Docs" folder in your "Jagged Alliance 2" directory
+
 ## Hotkeys
 
 ### Movement and Stances
@@ -16,15 +25,22 @@ This guide was written with the game version [JA2_113-v2-G3519Ld827-English](htt
 | PAGE UP | Change stance upwards/climb a roof |
 | PAGE DOWN | Chance stance downwards/climb down a roof |
 | ALT and left mouse click - Sidestepping, rolling to the side, walking/crawling backwards, etc. |
-| Shift + J | Jump through windows |
+| SHIFT + J | Jump through windows |
 
 ### Targeting/Combat
 
 | Hotkey | Description |
 | --- | --- |
 | . (dot) | Change Scope mode including firing from the hip |
-| Shift+R | Reload (don't press 'R') |
+| SHIFT + R | Reload (don't press 'R') |
 
+
+### Other Hotkeys for the Tactial Screen
+
+| Hotkey | Description |
+| --- | --- | 
+| CTRL + Left/Right | Moves Merc's position on the lower bar left/right |
+| CTRL + T | Enable/disable forced turn based mode
 
 ## New Menus
 
@@ -99,33 +115,4 @@ Staffing an ACA building with a Merc who has 75+ Wisdom and +30 Leadership and g
 
 ## FAQ
 
-Q: Why are there Elites in Omerta when I start the game?!
-
-A: You enabled Enemy Generals and Omerta (A9) is one of the spawning spots
-
-![Elite Generals may drop a General in A9](./pictures/enemy_generals_A9.png)
-
----
-
-Q: The difficulty setting "Experienced" is too easy, but "Expert" is too hard?!
-
-A: Try setting "Progress Speed of Item Choices" to "Slow". One of the reasons why Expert is hard is due to how well kitted out Deiranna's elite troops are. Elites start at Cooldown 5 (of 10). "Slow" Progress Speed will reduce their coolness by 3 till you get to 10 progress, by 2 till 40 progress and finally by 1 till you get to 80 progress. 
-
-Press "V" to see your current Max Progress (second number)
-
----
-
-Q: I pressed some darned hotkey by accident and I broke my game!
-
-A: This won't be an exhaustive list but we can try
-
-- Cursor doesn't show a chance to hit anymore. Go to "Jagged Alliance 2/Profiles/UserProfile_JA2113/Ja2_Settings.INI" and change `TOPTION_CTH_CURSOR` to TRUE
-
----
-
-Q: When my spy attacks even an admin manages to interrupt and kill them!
-
-A: It seems like that the game will give a hefty malus to Mercs who do "suspicious activities" including to apply a knife to an enemy. It seems to work better if you do not attack in real-time mode but instead press CTRL + T to force turn based mode. You may need to remove the disguise in the $ screen first for best effects, before you plunge the knife into Deidranna's troops.
-
----
-...
+See [The other page](https://beataroundthebuscher.github.io/Jagged_Alliance_2/FAQ.md)
