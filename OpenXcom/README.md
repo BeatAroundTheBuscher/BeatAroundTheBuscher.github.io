@@ -1,13 +1,15 @@
 # OpenXCOM Mods
 
-[Tools](#tools)
-[Resources](#resources)
-[Mods](#mods)
-- [ROSIGMA](#rosigma)
-- [HCAT](#hatching-chryssalids-and-tentaculats-hcat
-- [GOG](#gibs-of-gory-gog)
-[Other Mods](#other-mods)
-- [Interesting Repos of Mods](#interesting-repos-of-mods)
+## Table of Contents
+
+- [Tools](#tools)
+- [Resources](#resources)
+- [Mods](#mods)
+  - [ROSIGMA](#rosigma)
+  - [HCAT](#hatching-chryssalids-and-tentaculats-hcat)
+  - [GOG](#gibs-of-gory-gog)
+- [Other Mods](#other-mods)
+  - [Interesting Repos of Mods](#interesting-repos-of-mods)
 
 
 ## Tools

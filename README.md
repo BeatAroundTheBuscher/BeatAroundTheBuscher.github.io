@@ -6,5 +6,5 @@
 
 ## Links
 
-[https://beataroundthebuscher.github.io/OpenXCOM/README.md]
-[https://beataroundthebuscher.github.io/Jagged_Alliance_2/README.md]
+- [https://beataroundthebuscher.github.io/OpenXCOM/](OpenXCOM)
+- [https://beataroundthebuscher.github.io/Jagged_Alliance_2/](JA2 1.13)
