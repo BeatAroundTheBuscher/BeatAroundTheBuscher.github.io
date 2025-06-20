@@ -20,9 +20,25 @@
 
 ### ROSIGMA
 
+[mod.io](https://mod.io/g/openxcom/m/rosigma)
+
 ### Hatching Chryssalids and Tentaculats (HCAT)
 
+[mod.io](https://beataroundthebuscher.github.io/OpenXcom/)
+
 ### Gibs of Gory (GOG)
+
+[mod.io](https://mod.io/g/openxcom/m/gibs-of-gory)
+
+### Imperial Guard Mini Addon (IGMA)
+
+Obsolete
+
+### Rosigmunda
+
+Non-Active
+
+
 
 ## Other Mods
 
