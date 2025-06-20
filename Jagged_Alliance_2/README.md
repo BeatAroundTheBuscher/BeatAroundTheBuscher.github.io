@@ -96,7 +96,7 @@ Allows:
 - Gut - ???
 - Take Clothes - Takes the uniform/clothing of a body
 
-Taking clothes will result in pants and shirts, assuming you didn't not fire at the torso/leg hit zone. Otherwise they are too damaged to be of any use for covert ops.
+Taking clothes will result in pants and shirts, assuming you didn't fire at the torso/leg hit zone. Otherwise they are too damaged to be of any use for covert ops.
 
 ## Crafting
 
